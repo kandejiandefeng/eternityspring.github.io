@@ -1,7 +1,7 @@
 {
-  "name":"王世霖",
+  "name":"周生黎",
   "sex":"男",
-  "birthday":"1992-08-24",
+  "birthday":"1995-09-28",
   "workSince":"2012-11-01",
   "exp":["毕业","年工作","年"],
   "nickname":"源泉",
@@ -9,13 +9,12 @@
   "lastName":"wesley",
   "slogan":"追求专业与卓越前端开发者",
   "tips":"Ctrl+p可以印本简历，打印时显示真名",
-  "education":"专科",
-  "phone":15001827426,
-  "location":"Shanghai·China",
+  "education":"本科",
+  "phone":18883983252,
+  "location":"chongqing·China",
   "qq":{
-    "number":"790313188"
+    "number":"1161936518"
   },
-  "website":"http://79px.com",
   "github":"https://github.com/eternityspring",
   "email":"eternityspring@gmail.com",
   "intro":{
